@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cryptography on disnocen</title>
+    <link>https://disnocen.github.io/tags/cryptography/</link>
+    <description>Recent content in Cryptography on disnocen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0200</lastBuildDate>
+    <atom:link href="https://disnocen.github.io/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography Research Notes</title>
+      <link>https://disnocen.github.io/posts/2026-05-01-cryptography-research-notes/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/posts/2026-05-01-cryptography-research-notes/</guid>
+      <description>A short map of the cryptography topics this blog will track.</description>
+    </item>
+  </channel>
+</rss>

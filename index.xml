@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>disnocen</title>
+    <link>https://disnocen.github.io/</link>
+    <description>Recent content on disnocen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 00:05:00 +0200</lastBuildDate>
+    <atom:link href="https://disnocen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Local Model Experiments</title>
+      <link>https://disnocen.github.io/posts/2026-05-01-local-model-experiments/</link>
+      <pubDate>Fri, 01 May 2026 00:05:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/posts/2026-05-01-local-model-experiments/</guid>
+      <description>Notes on using local models as research tools, especially for cryptography workflows.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://disnocen.github.io/about/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/about/</guid>
+      <description>&lt;p&gt;This is a personal research blog for notes that are useful outside a private notebook.&lt;/p&gt;
+&lt;p&gt;The main threads are cryptographic protocol design, garbled circuits, threshold signatures, BitVM/STARK/SNARK work, and experiments with local AI models for research workflows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cryptography Research Notes</title>
+      <link>https://disnocen.github.io/posts/2026-05-01-cryptography-research-notes/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/posts/2026-05-01-cryptography-research-notes/</guid>
+      <description>A short map of the cryptography topics this blog will track.</description>
+    </item>
+  </channel>
+</rss>

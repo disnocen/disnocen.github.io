@@ -1,5 +1,9 @@
 _site/*
 _theme_packages/*
+site/public/
+site/resources/_gen/
+.hugo_build.lock
+STATE.md
 
 Thumbs.db
 .DS_Store
