@@ -13,7 +13,6 @@ PaperMod was chosen because it is minimal, fast, actively maintained, and has th
 Install Hugo, then build:
 
 ```sh
-brew install hugo
 git submodule update --init --recursive
 ./scripts/build-site.sh
 ```
