@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://disnocen.github.io/posts/2026-05-26-3ojsftibvc/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/tags/personal/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/posts/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/tags/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/tags/thought/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+  </url><url>
     <loc>https://disnocen.github.io/tags/ai-research/</loc>
     <lastmod>2026-05-22T10:58:00+02:00</lastmod>
   </url><url>
-    <loc>https://disnocen.github.io/</loc>
-    <lastmod>2026-05-22T10:58:00+02:00</lastmod>
-  </url><url>
     <loc>https://disnocen.github.io/tags/local-llm/</loc>
-    <lastmod>2026-05-22T10:58:00+02:00</lastmod>
-  </url><url>
-    <loc>https://disnocen.github.io/posts/</loc>
     <lastmod>2026-05-22T10:58:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/posts/2026-05-22-kid1uoisio/</loc>
     <lastmod>2026-05-22T10:58:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/tags/research-workflows/</loc>
-    <lastmod>2026-05-22T10:58:00+02:00</lastmod>
-  </url><url>
-    <loc>https://disnocen.github.io/tags/</loc>
-    <lastmod>2026-05-22T10:58:00+02:00</lastmod>
-  </url><url>
-    <loc>https://disnocen.github.io/tags/thought/</loc>
     <lastmod>2026-05-22T10:58:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/categories/</loc>
@@ -36,9 +42,6 @@
     <lastmod>2026-05-21T08:49:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/posts/2026-05-21-gu0cpvyh2g/</loc>
-    <lastmod>2026-05-21T08:29:00+02:00</lastmod>
-  </url><url>
-    <loc>https://disnocen.github.io/tags/personal/</loc>
     <lastmod>2026-05-21T08:29:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/categories/experiments/</loc>
