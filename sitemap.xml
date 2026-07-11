@@ -2,26 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://disnocen.github.io/posts/2026-05-26-3ojsftibvc/</loc>
-    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+    <loc>https://disnocen.github.io/tags/ai-research/</loc>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/tags/cryptography/</loc>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/</loc>
-    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
+  </url><url>
+    <loc>https://disnocen.github.io/posts/2026-07-11-wdqwjrc9xz/</loc>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/tags/personal/</loc>
-    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/posts/</loc>
-    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/tags/</loc>
-    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/tags/thought/</loc>
-    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
+    <lastmod>2026-07-11T12:45:00+02:00</lastmod>
   </url><url>
-    <loc>https://disnocen.github.io/tags/ai-research/</loc>
-    <lastmod>2026-05-22T10:58:00+02:00</lastmod>
+    <loc>https://disnocen.github.io/posts/2026-05-26-3ojsftibvc/</loc>
+    <lastmod>2026-05-26T08:28:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/tags/local-llm/</loc>
     <lastmod>2026-05-22T10:58:00+02:00</lastmod>
@@ -51,9 +57,6 @@
     <lastmod>2026-05-01T00:05:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/about/</loc>
-    <lastmod>2026-05-01T00:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://disnocen.github.io/tags/cryptography/</loc>
     <lastmod>2026-05-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>https://disnocen.github.io/posts/2026-05-01-cryptography-research-notes/</loc>
