@@ -6,62 +6,62 @@
     <description>Recent content in Tags on disnocen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 04:52:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:16:00 +0200</lastBuildDate>
     <atom:link href="https://disnocen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai-Research</title>
       <link>https://disnocen.github.io/tags/ai-research/</link>
-      <pubDate>Tue, 14 Jul 2026 04:52:00 +0200</pubDate>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
       <guid>https://disnocen.github.io/tags/ai-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cryptography</title>
+      <link>https://disnocen.github.io/tags/cryptography/</link>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Formal-Methods</title>
+      <link>https://disnocen.github.io/tags/formal-methods/</link>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/tags/formal-methods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Local-Llm</title>
+      <link>https://disnocen.github.io/tags/local-llm/</link>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/tags/local-llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
       <link>https://disnocen.github.io/tags/personal/</link>
-      <pubDate>Tue, 14 Jul 2026 04:52:00 +0200</pubDate>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
       <guid>https://disnocen.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Protocol-Design</title>
+      <link>https://disnocen.github.io/tags/protocol-design/</link>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
+      <guid>https://disnocen.github.io/tags/protocol-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Research-Workflows</title>
       <link>https://disnocen.github.io/tags/research-workflows/</link>
-      <pubDate>Tue, 14 Jul 2026 04:52:00 +0200</pubDate>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
       <guid>https://disnocen.github.io/tags/research-workflows/</guid>
       <description></description>
     </item>
     <item>
       <title>Thought</title>
       <link>https://disnocen.github.io/tags/thought/</link>
-      <pubDate>Tue, 14 Jul 2026 04:52:00 +0200</pubDate>
+      <pubDate>Sun, 23 Aug 2026 16:16:00 +0200</pubDate>
       <guid>https://disnocen.github.io/tags/thought/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cryptography</title>
-      <link>https://disnocen.github.io/tags/cryptography/</link>
-      <pubDate>Sat, 11 Jul 2026 12:45:00 +0200</pubDate>
-      <guid>https://disnocen.github.io/tags/cryptography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Local-Llm</title>
-      <link>https://disnocen.github.io/tags/local-llm/</link>
-      <pubDate>Fri, 22 May 2026 10:58:00 +0200</pubDate>
-      <guid>https://disnocen.github.io/tags/local-llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Formal-Methods</title>
-      <link>https://disnocen.github.io/tags/formal-methods/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://disnocen.github.io/tags/formal-methods/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Protocol-Design</title>
-      <link>https://disnocen.github.io/tags/protocol-design/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0200</pubDate>
-      <guid>https://disnocen.github.io/tags/protocol-design/</guid>
       <description></description>
     </item>
   </channel>
